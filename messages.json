@@ -6,5 +6,9 @@
   {
     "role": "ai_message",
     "content": "Thank you for providing the instructions. I understand that you want me to create a new project based on the template you've provided. Before we begin, let's discuss what kind of application you'd like to build. Could you please share your idea or the type of project you have in mind? This will help me tailor the design and features to your specific needs."
+  },
+  {
+    "role": "user",
+    "content": "let me know if u can see the doc"
   }
 ]
